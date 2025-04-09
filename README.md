@@ -1,4 +1,5 @@
 Africare-AI-Chat-Assistant
+
 A cutting-edge, real-time chat app built with React (Vite) and powered by OpenAI’s GPT-3.5 API. Styled with Tailwind CSS for a modern, responsive user interface.
 
 Key Features
